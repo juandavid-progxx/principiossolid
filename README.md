@@ -1,0 +1,2 @@
+# principiossolid
+trabajo principios solid
